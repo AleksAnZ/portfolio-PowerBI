@@ -4,6 +4,8 @@ Thank's for the educational materials from Nikita Tymoshenko on www.youtube.com/
 ![image](https://github.com/user-attachments/assets/e79179bc-5a2a-4a82-a6c8-5553ffa7fd2f)
 
 Sales Dashboard
-![image](https://github.com/user-attachments/assets/2a4e9dc1-0e8d-47c7-8162-62ebf66fe699)
+![image](https://github.com/user-attachments/assets/22212edb-87a6-4181-9ecd-0329513ce48b)
+Every dashboard element is interactive
+![image](https://github.com/user-attachments/assets/c389fae6-beaf-45b6-8587-42186652cb5f)
 
 
