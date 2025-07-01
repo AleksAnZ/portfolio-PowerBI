@@ -7,4 +7,7 @@ Sales Dashboard (based on training data)
 Every dashboard element is interactive
 ![image](https://github.com/user-attachments/assets/c389fae6-beaf-45b6-8587-42186652cb5f)
 
+Population density of regions of Ukraine as of 01.02.2022
+![image](https://github.com/user-attachments/assets/6bd8404a-50c9-4657-a9a7-f72ad7a72118)
+
 Thank's for the educational materials from Nikita Tymoshenko on www.youtube.com/@ion_lab
