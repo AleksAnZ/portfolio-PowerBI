@@ -9,5 +9,7 @@ Every dashboard element is interactive
 
 Population density of regions of Ukraine as of 01.02.2022
 ![image](https://github.com/user-attachments/assets/6bd8404a-50c9-4657-a9a7-f72ad7a72118)
+![image](https://github.com/user-attachments/assets/c7d6d745-3f0c-49fa-add6-6aa7303fcaad)
+![image](https://github.com/user-attachments/assets/0ffca76e-dba3-4482-be5a-331a25ff352d)
 
 Thank's for the educational materials from Nikita Tymoshenko on www.youtube.com/@ion_lab
